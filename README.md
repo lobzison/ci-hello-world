@@ -1,2 +1,2 @@
 # ci-hello-world
-Hello word
+Hello word for test coverage, project structure and CI
