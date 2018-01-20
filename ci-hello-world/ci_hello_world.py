@@ -14,3 +14,4 @@ def my_very_smart_func(num):
     if num == 0:
         return None
     return math.sqrt(num)
+    # test coverage
