@@ -12,8 +12,8 @@ class myTestSuite(unittest.TestCase):
     """
 
     def test_1(self):
-        """sqrt(0) = 0"""
-        self.assertEqual(ci_hello_world.my_very_smart_func(0), 0)
+        """sqrt(0) = None"""
+        self.assertEqual(ci_hello_world.my_very_smart_func(0), None)
 
     def test_2(self):
         """sqrt(1) == 1"""
