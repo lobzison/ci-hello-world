@@ -6,6 +6,7 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-  - py.test # or py.test for Python versions 3.5 and below
+  #- py.test # or py.test for Python versions 3.5 and below
+  - coverage run --source=ci_hello_world py.test test
 after_success:
   - coveralls
