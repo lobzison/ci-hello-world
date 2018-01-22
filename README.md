@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/lobzison/ci-hello-world.svg?branch=master)](https://travis-ci.org/lobzison/ci-hello-world)
-[![Coverage Status](https://coveralls.io/repos/github/lobzison/ci-hello-world/badge.svg?branch=master)](https://coveralls.io/github/lobzison/ci-hello-world?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/lobzison/ci-hello-world/badge.svg?branch=master&service=github)](https://coveralls.io/github/lobzison/ci-hello-world?branch=master&service=github) 
 # ci-hello-world
 Hello word for test coverage, project structure and CI
 
