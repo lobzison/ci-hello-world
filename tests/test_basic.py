@@ -23,6 +23,5 @@ class myTestSuite(unittest.TestCase):
         """sqrt(25) == 5"""
         self.assertEqual(ci_hello_world.my_very_smart_func(25), 5)
 
-
 if __name__ == '__main__':
     unittest.main()
